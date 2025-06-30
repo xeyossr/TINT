@@ -1,0 +1,36 @@
+{
+  "name": "tint",
+  "version": "0.1.0",
+  "description": " 🎨 A terminal tool that modifies image colors according to your selected palette, optimizing your visual experience. ",
+  "main": "bin/tint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tint": "./bin/tint.js"
+  },
+  "files": [
+    "bin",
+    "themes.json"
+  ],
+  "keywords": [
+    "image",
+    "color",
+    "theme",
+    "palette",
+    "terminal",
+    "CLI",
+    "tint"
+  ],
+  "author": "xeyossr",
+  "license": "GPL-3.0",
+  "type": "commonjs",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "get-pixels": "^3.3.3",
+    "https": "^1.0.0",
+    "ndarray": "^1.0.19",
+    "save-pixels": "^2.3.6",
+    "sharp": "^0.34.2"
+  }
+}
