@@ -28,7 +28,7 @@ See #Usage below for more information.
 To install TINT, npm must be installed on your system.
 
 ```
-npm install -g github:xeyossr/TINT
+sudo npm install -g github:xeyossr/TINT
 ```
 
 ---
