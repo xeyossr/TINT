@@ -13,9 +13,9 @@ See #Usage below for more information.
 
 ## Demo Gallery
 
-| Original                    | Catppuccin Latte                      | Catppuccin Mocha               | Dracula                        |
-| --------------------------- | ------------------------------------- | ------------------------------ | ------------------------------ |
-| ![raw](assets/original.png) | ![latte](assets/catppuccin-latte.png) | ![mocha](catppuccin-mocha.png) | ![dracula](assets/dracula.png) |
+| Original                    | Catppuccin Latte                      | Catppuccin Mocha                      | Dracula                        |
+| --------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------ |
+| ![raw](assets/original.png) | ![latte](assets/catppuccin-latte.png) | ![mocha](assets/catppuccin-mocha.png) | ![dracula](assets/dracula.png) |
 
 | Everforest                           | Gruvbox                        | Kanagawa                         | Rose Pine                         |
 | ------------------------------------ | ------------------------------ | -------------------------------- | --------------------------------- |
@@ -28,7 +28,7 @@ See #Usage below for more information.
 To install TINT, npm must be installed on your system.
 
 ```
-npm install -g github:kamisaki/TINT
+npm install -g github:xeyossr/TINT
 ```
 
 ---
