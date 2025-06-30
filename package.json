@@ -11,7 +11,7 @@
   },
   "files": [
     "bin",
-    "themes.json"
+    "lib"
   ],
   "keywords": [
     "image",
@@ -30,6 +30,7 @@
     "get-pixels": "^3.3.3",
     "https": "^1.0.0",
     "ndarray": "^1.0.19",
+    "path": "^0.12.7",
     "save-pixels": "^2.3.6",
     "sharp": "^0.34.2"
   }
