@@ -1,6 +1,6 @@
 {
-  "name": "tint",
-  "version": "0.1.0",
+  "name": "@xeyossr/tint",
+  "version": "0.1.1",
   "description": " 🎨 A terminal tool that modifies image colors according to your selected palette, optimizing your visual experience. ",
   "main": "bin/tint.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "bin": {
     "tint": "./bin/tint.js"
   },
+  "preferGlobal": true,
   "files": [
     "bin",
     "lib",
@@ -33,6 +34,7 @@
     "ndarray": "^1.0.19",
     "path": "^0.12.7",
     "save-pixels": "^2.3.6",
-    "sharp": "^0.34.2"
+    "sharp": "^0.34.2",
+    "update-notifier": "^7.3.1"
   }
 }

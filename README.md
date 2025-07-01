@@ -28,7 +28,7 @@ See #Usage below for more information.
 To install TINT, npm must be installed on your system.
 
 ```
-sudo npm install -g github:xeyossr/TINT
+sudo npm install -g @xeyossr/tint
 ```
 
 ---
@@ -43,7 +43,6 @@ Options:
   -o, --output <path>      output image path
   -t, --theme <name>       theme name
   -p, --palette <palette>  custom palette (path to JSON file or flat RGB list)
-  --update                 update TINT to the latest version
   -h, --help               display help for command
 ```
 
@@ -56,9 +55,6 @@ tint -i input.jpg -o output.png -p ./my-palette.json
 
 # Use a custom palette (inline RGB list)
 tint -i pic.webp -o recolored.png -p "[255,0,0, 0,255,0, 0,0,255]"
-
-# Update to the latest version
-tint --update
 ```
 
 ### Themes
